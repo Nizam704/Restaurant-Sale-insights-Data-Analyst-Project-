@@ -110,6 +110,3 @@ The aim of this project is to evaluate the performance of a pizza business by an
 - Dataset: [Pizza Sales Dataset](https://www.kaggle.com/)
 - Tools: [Google BigQuery](https://cloud.google.com/bigquery), [Power BI](https://powerbi.microsoft.com/)
 
----
-
-Would you like me to make any edits or enhancements to this README?
